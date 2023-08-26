@@ -4,14 +4,14 @@ This is our data structure and algorithms assignment 2
 
 ### Function performed in this assignment
 
-Read data to BST
+***Read data to BST
 
-Print deepest nodes 
+***Print deepest nodes 
 
-Display student 
+***Display student 
 
-Clone Subtree 
+***Clone Subtree 
 
-Print Level Nodes 
+***Print Level Nodes 
 
-Print Path 
+***Print Path 
